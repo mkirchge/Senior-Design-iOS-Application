@@ -1,1 +1,1 @@
-# Senior-Design-iOS-Application
+# Senior Design iOS Application
